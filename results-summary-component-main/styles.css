@@ -94,7 +94,7 @@ body {
 
 .result .info {
   color: var(--clr-neutral-lightlavender);
-  width: 200px;
+  width: 80%;
 }
 
 .summary {
